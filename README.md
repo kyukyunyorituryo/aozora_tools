@@ -23,6 +23,11 @@ Meryの青空文庫用の構文ファイル、スニペットツール用、辞�
 [Meryの青空文庫用整形補助マクロを使ってみる](https://99nyorituryo.hatenablog.com/entry/2013/10/28/231520)
 
 
+自動ルビ振りマクロ
+---------
+https://github.com/kyukyunyorituryo/add_ruby
+
+
 青空文庫シンタックスハイライトの構文ファイル
 ----------------------
 
