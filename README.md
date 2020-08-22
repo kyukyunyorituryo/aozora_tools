@@ -29,4 +29,4 @@ Meryの青空文庫用の構文ファイル、スニペットツール用、辞�
 https://qiita.com/isari/items/b9356ddb731423f6846e
 
 
-https://www.haijin-boys.com/wiki/ファイル:aozoramsy.zip ](https://www.haijin-boys.com/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:aozoramsy.zip)
+[https://www.haijin-boys.com/wiki/ファイル:aozoramsy.zip](https://www.haijin-boys.com/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:aozoramsy.zip)
