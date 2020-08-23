@@ -7,8 +7,6 @@
 Meryの青空文庫用の構文ファイル、スニペットツール用、辞書のファイル。構文ファイルはhaijinboysの青空文庫シンタックスハイライトの構文ファイルが最新の機能のバージョンです。
 このリポジトリのSnippets.txt、aozora.msy、txt.txt。
 
-[https://kyukyunyorituryo.github.io/aozoratool/aozoraEditor.zip ](https://kyukyunyorituryo.github.io/aozoratool/aozoraEditor.zip)
-
 
 青空文庫用整形補助
 ---------
@@ -27,6 +25,13 @@ Meryの青空文庫用の構文ファイル、スニペットツール用、辞�
 ---------
 https://github.com/kyukyunyorituryo/add_ruby
 
+
+校正支援アウトプット
+---------
+　Yahoo APIを利用した文章を校正するマクロ。便利ツールとして紹介しておきます。
+ 
+ Meryマクロ
+https://www.haijin-boys.com/wiki/%E6%A0%A1%E6%AD%A3%E6%94%AF%E6%8F%B4%E3%82%A2%E3%82%A6%E3%83%88%E3%83%97%E3%83%83%E3%83%88
 
 青空文庫シンタックスハイライトの構文ファイル
 ----------------------
